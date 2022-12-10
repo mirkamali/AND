@@ -17,8 +17,8 @@
 
 
 
-## مرجع کدهای کتاب (#coderef)
+## <a name="coderef"></a> مرجع کدهای کتاب
 [لینک مرجع کدها](https://www.stat.cmu.edu/~kass/KEB).
 
-## تماس با مترجمان
+## <a name="translators"></a> تماس با مترجمان
 ایمیل مترجم: motarjem [at] site . com
